@@ -1,0 +1,1 @@
+<a href="<?php echo $this->base;?>/admin/<?php echo $linkNameAction;?>/add" class="a-color-red"><h5><span class="icon-th"></span>&nbsp;<span class="text" style="vertical-align:middle;">Click here to add new <?php echo $linkName;?></span></h5></a>

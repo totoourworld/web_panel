@@ -1,0 +1,3 @@
+[04-Jul-2015 10:00:01 UTC] PHP Strict Standards:  Non-static method CakeLog::getInstance() should not be called statically, assuming $this from incompatible context in /home/vinner2112/public_html/grepixit.com/cake/libs/cake_log.php on line 290
+[04-Jul-2015 10:00:19 UTC] PHP Strict Standards:  Non-static method CakeLog::getInstance() should not be called statically, assuming $this from incompatible context in /home/vinner2112/public_html/grepixit.com/cake/libs/cake_log.php on line 290
+[04-Jul-2015 10:00:25 UTC] PHP Strict Standards:  Non-static method CakeLog::getInstance() should not be called statically, assuming $this from incompatible context in /home/vinner2112/public_html/grepixit.com/cake/libs/cake_log.php on line 290

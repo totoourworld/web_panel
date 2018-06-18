@@ -1,0 +1,16 @@
+<?php
+class DATABASE_CONFIG {
+
+	var $default = array(
+		'driver' => 'mysql',
+		'persistent' => false,
+		'host' => 'skuberdb.cbnqkqsnezjz.ap-southeast-1.rds.amazonaws.com',
+		'login' => 'skuber',
+		'password' => 'skuber007',
+		'database' => 'skuber',
+		'prefix' => '',
+		//'encoding' => 'utf8',
+	);
+
+}
+
